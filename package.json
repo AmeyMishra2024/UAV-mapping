@@ -1,0 +1,1 @@
+{"name":"uav-mapping","version":"1.0.0","private":true,"type":"module","description":"Confidence-aware photo annotation and approximate neighborhood mapping","scripts":{"start":"node --env-file-if-exists=.env server.mjs","test":"node --test"},"engines":{"node":">=22"}}

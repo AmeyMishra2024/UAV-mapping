@@ -1,3 +1,4 @@
+# CODE FROM 10/7/2024. REVISED ON 10/31/2026 TO REPAIR FUNCTIONALITY
 # UAV Mapping
 
 Turn a UAV or oblique neighborhood photograph into an annotated image and an editable approximate 2D map. Houses share the same IDs in both views. Streets, ponds, landmarks and unresolved roof clusters have separate feature types.
